@@ -7,7 +7,7 @@
 **개발자를 위한 커뮤니티 입니다.**
 <br /><br />
 
-## 📌 서비스 링크 (api 혹은 회의록 같은거?)
+## 📌 서비스 링크
  http://kdt-sw2-seoul-team06.elicecoding.com/
 
 ## :memo: 서비스 소개
